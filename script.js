@@ -1,12 +1,1 @@
-const toggle = document.querySelector('.menu-toggle');
-const nav = document.querySelector('#navigation');
-toggle?.addEventListener('click', () => {
-  const expanded = toggle.getAttribute('aria-expanded') === 'true';
-  toggle.setAttribute('aria-expanded', String(!expanded));
-  nav.classList.toggle('open', !expanded);
-});
-nav?.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {
-  nav.classList.remove('open');
-  toggle?.setAttribute('aria-expanded', 'false');
-}));
-document.querySelector('#year').textContent = new Date().getFullYear();
+const filters=document.querySelectorAll('[data-filter]');const cards=document.querySelectorAll('.art-card');filters.forEach(btn=>btn.addEventListener('click',()=>{filters.forEach(b=>b.classList.toggle('active',b===btn));const value=btn.dataset.filter;cards.forEach(card=>card.hidden=value!=='All'&&card.dataset.category!==value)}));const dialog=document.getElementById('lightbox');document.querySelectorAll('.art-open').forEach(btn=>btn.addEventListener('click',()=>{dialog.querySelector('img').src=btn.dataset.src;dialog.querySelector('img').alt=btn.dataset.title;dialog.querySelector('strong').textContent=btn.dataset.title;dialog.querySelector('p').textContent=btn.dataset.caption;dialog.showModal()}));dialog.querySelector('.close-lightbox').addEventListener('click',()=>dialog.close());dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close()});
