@@ -1,45 +1,9 @@
 [
   {
-    "file": "art-01.jpg",
-    "title": "Midnight Taco Circus",
-    "category": "Cabinet of Curiosities",
-    "description": "A feast under the big top, where the clowns have peculiar appetites."
-  },
-  {
-    "file": "art-02.jpg",
-    "title": "The Last Taco",
-    "category": "Taco Tuesday",
-    "description": "Even the dearly departed have room for one more."
-  },
-  {
-    "file": "art-03.jpg",
-    "title": "Tako Tuesday",
-    "category": "Taco Tuesday",
-    "description": "A Japanese-inspired visual pun: tako means octopus."
-  },
-  {
-    "file": "art-04.jpg",
-    "title": "TacoCat",
-    "category": "Taco Tuesday",
-    "description": "A feline feast, with a palindrome for dessert."
-  },
-  {
-    "file": "art-05.jpg",
-    "title": "The Taco Automaton",
-    "category": "Taco Tuesday",
-    "description": "An unlikely connoisseur with a mechanical appetite."
-  },
-  {
-    "file": "art-06.jpg",
-    "title": "The Cabinet of Dr. Calamari",
-    "category": "Cabinet of Curiosities",
-    "description": "A curious specimen from a strange little world."
-  },
-  {
     "file": "art-07.jpg",
     "title": "Specimen Case No. 1",
     "category": "Cabinet of Curiosities",
-    "description": "A collector\u2019s cabinet of improbable wonders."
+    "description": "A collector’s cabinet of improbable wonders."
   },
   {
     "file": "art-08.jpg",
@@ -54,78 +18,6 @@
     "description": "Coffee and creatures from the early hours."
   },
   {
-    "file": "art-10.jpg",
-    "title": "The Garbanzo Bean",
-    "category": "Visual Puns",
-    "description": "A joke best served with a straight face."
-  },
-  {
-    "file": "art-11.jpg",
-    "title": "Jeffrey Maizey",
-    "category": "Visual Puns",
-    "description": "A familiar face takes an unexpected botanical turn."
-  },
-  {
-    "file": "art-12.jpg",
-    "title": "Max Peter",
-    "category": "Satire & Mischief",
-    "description": "Psychedelic visual comedy with absolutely no shame."
-  },
-  {
-    "file": "art-13.jpg",
-    "title": "Corpussian",
-    "category": "Satire & Mischief",
-    "description": "Local identity, lovingly misbehaving."
-  },
-  {
-    "file": "art-14.jpg",
-    "title": "Meanwhile in Corpus Crispy",
-    "category": "Satire & Mischief",
-    "description": "South Texas heat, taken to its logical extreme."
-  },
-  {
-    "file": "art-15.jpg",
-    "title": "Free Dumb",
-    "category": "Satire & Mischief",
-    "description": "An irreverent meditation on freedom and its contradictions."
-  },
-  {
-    "file": "art-16.jpg",
-    "title": "Surf & Turf",
-    "category": "Taco Tuesday",
-    "description": "The tide is high, and so is the appetite."
-  },
-  {
-    "file": "art-17.jpg",
-    "title": "Taco Tuesday en Espa\u00f1ol",
-    "category": "Taco Tuesday",
-    "description": "An affectionate tribute to a South Texas institution."
-  },
-  {
-    "file": "art-18.jpg",
-    "title": "Taco Tuesday, Vintage",
-    "category": "Taco Tuesday",
-    "description": "Old-school flavor in a new-school image."
-  },
-  {
-    "file": "art-19.jpg",
-    "title": "Tacos Beyond the Grave",
-    "category": "Taco Tuesday",
-    "description": "An eternal craving."
-  },
-  {
-    "file": "art-20.jpg",
-    "title": "Monkey Business",
-    "category": "Taco Tuesday",
-    "description": "A little monkey business with lunch."
-  },
-  {
-    "file": "art-21.jpg",
-    "title": "R2-Taco",
-    "category": "Taco Tuesday",
-    "description": "The droid you are looking for is hungry."
-  },
-  {
     "file": "art-22.jpg",
     "title": "I Want to Be a Bird",
     "category": "Cabinet of Curiosities",
@@ -136,18 +28,6 @@
     "title": "Chimera",
     "category": "Cabinet of Curiosities",
     "description": "A fantastical collision of forms."
-  },
-  {
-    "file": "art-24.jpg",
-    "title": "Tech Mate",
-    "category": "Visual Puns",
-    "description": "A little wordplay with a technological twist."
-  },
-  {
-    "file": "art-25.jpg",
-    "title": "Hunting Season",
-    "category": "Satire & Mischief",
-    "description": "The hunt is on, and the joke has teeth."
   },
   {
     "file": "art-26.jpg",
